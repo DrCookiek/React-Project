@@ -1,13 +1,23 @@
-# React-vision-site
+# React-Website-Building
 
-## About The Project:
-We provide website development services.
-You have a dream, so we have a job!!!
-#### There are additional advantages for a business account
+## Description:
 
-### Built With 
-### | REACT | BOOTSTRAP | 
+We build websites and we do it well.
+We are up and running for 20 years!
+Your wish is our command, we will pour our heart and soul to make it the best website for you!♥
+If you need our services call us and we will make it happen!
 
+## Features:
 
+you can:
+★sign up
+☆sign in
+★sign in as business user
+☆sign out
+★build cards
+☆remove cards
+★edit cards
 
-![Vision1](https://github.com/alexkuf/React-vision-site/assets/111445523/59ea1865-cbfd-400c-9a70-2b2eb08771a4)
+### Built With:
+
+### | REACT | BOOTSTRAP |
